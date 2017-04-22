@@ -1,2 +1,4 @@
 # HelloWorlrd
-Hello World
+Hi people
+
+I am here and this is my first repository
